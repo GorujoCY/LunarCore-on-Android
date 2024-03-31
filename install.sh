@@ -27,3 +27,4 @@ cp start.sh ~/
 cd
 chmod +x start.sh
 ./start.sh
+#comment
